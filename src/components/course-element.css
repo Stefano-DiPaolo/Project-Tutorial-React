@@ -1,0 +1,9 @@
+.course-card{
+    border-color: orange;
+}
+
+.course-card:hover{
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+}
